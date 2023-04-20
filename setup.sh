@@ -9,3 +9,8 @@ go install github.com/google/go-containerregistry/cmd/gcrane@latest
 sudo git clone https://github.com/ahmetb/kubectx /opt/kubectx
 sudo ln -s /opt/kubectx/kubectx /usr/local/bin/kubectx
 sudo ln -s /opt/kubectx/kubens /usr/local/bin/kubens
+
+curl https://sdk.cloud.google.com > install.sh
+
+
+bash install.sh --disable-prompts
