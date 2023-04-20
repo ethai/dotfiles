@@ -8,3 +8,7 @@ go install github.com/google/go-containerregistry/cmd/gcrane@latest
 sudo git clone https://github.com/ahmetb/kubectx /opt/kubectx
 sudo ln -s /opt/kubectx/kubectx /usr/local/bin/kubectx
 sudo ln -s /opt/kubectx/kubens /usr/local/bin/kubens
+
+wget https://raw.githubusercontent.com/ahmetb/kubectl-aliases/master/.kubectl_aliases
+
+mv .kubectl_aliases ~/
