@@ -1,5 +1,6 @@
 {
-    "github.codespaces.defaultExtensions": [
-      "GitHub.copilot"
-    ]
+  "github.codespaces.defaultExtensions": [
+      "GitHub.copilot",
+      "GitHub.copilot-chat"
+  ]
 }
