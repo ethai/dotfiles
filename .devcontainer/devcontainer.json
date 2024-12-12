@@ -1,0 +1,13 @@
+{
+    "name": "My Codespace",
+    "extensions": [
+      "GitHub.copilot",
+      "GitHub.copilot-chat",
+      "ms-python.python",
+      "ms-python.debugger"
+    ],
+    "settings": {
+      "github.copilot.enable": true,
+      "github.copilot.chat.enable": true
+    }
+  }
