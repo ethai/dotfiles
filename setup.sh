@@ -12,8 +12,3 @@ sudo ln -s /opt/kubectx/kubens /usr/local/bin/kubens
 wget https://raw.githubusercontent.com/ahmetb/kubectl-aliases/master/.kubectl_aliases
 
 mv .kubectl_aliases ~/
-
-code --install-extension GitHub.copilot
-code --install-extension GitHub.copilot-chat
-code --install-extension ms-python.python
-code --install-extension ms-python.debugger
